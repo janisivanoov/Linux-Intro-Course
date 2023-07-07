@@ -5,7 +5,7 @@ broker.
 
 ## Setup
 
-    git clone https://github.com/haf/vagrant-kafka.git
+    git clone https://github.com/janisivanoov/vagrant-kafka.git
     cd vagrant-kafka
     vagrant up
 
