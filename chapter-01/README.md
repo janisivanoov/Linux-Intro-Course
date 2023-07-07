@@ -56,7 +56,7 @@ you have a way of working with virtualised machines.
 Download [version 1.9.0](https://www.vagrantup.com/downloads.html) at the time
 of writing.
 
-Clone this repository: `git clone https://github.com/haf/linux-intro-course.git`
+Clone this repository: `git clone https://github.com/janisivanoov/linux-intro-course.git`
 
 If having trouble due to an HTTPS-MITM-ing proxy, run `git config --global
 http.sslVerify false` ([ref][git-https-mitm-fix]), then try again.
@@ -519,8 +519,8 @@ you have improvement suggestions to this tutorial.
 
  [virtualbox-dl]: https://www.virtualbox.org/wiki/Downloads "VirtualBox can be downloaded from this link"
  [git-https-mitm-fix]: https://stackoverflow.com/questions/12561299/how-to-access-github-through-firewall-playing-man-in-the-middle-when-using-https "How to accept deep traffic inspection"
- [vagrant-vault]: https://github.com/haf/vagrant-vault "A repository that configured Hashicorp Vault in a cluster configuration"
+ [vagrant-vault]: https://github.com/janisivanoov/vagrant-vault "A repository that configured Hashicorp Vault in a cluster configuration"
  [latent-config-checker]: ./papers/latent-config-checker.pdf "Early Detection of Configuration Errors to Reduce Failure Damage"
  [simple-testing]: ./papers/simple-testing.pdf "Simple testing can prevent most critical failures"
  [vim-modes]: https://en.wikibooks.org/wiki/Learning_the_vi_Editor/Vim/Modes "The different modes in vim"
- [github-PR]: https://github.com/haf/linux-intro-course/pulls
+ [github-PR]: https://github.com/janisivanoov/linux-intro-course/pulls
